@@ -27,4 +27,4 @@ Este proyecto es una aplicación web que permite realizar tres cálculos diferen
 
 ## Autor
 
-© 2025
+© 2025 Francisco Hidalgo.
